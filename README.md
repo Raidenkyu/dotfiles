@@ -2,7 +2,7 @@
 My current configuration of the dotfiles that I'm using in Linux.
 Props to [Miguel Duarte](https://github.com/miguelpduarte/) for the suggestions.
 
-## Current setyp:
+## Current setup:
 - [`i3wm`](https://i3wm.org/): Because productivity
 - [`rofi`](https://github.com/davatorium/rofi): Better than the default dmenu
 - `gnome-terminal`: I used to be a Gnome User, so I didn't see any reason to replace the terminal emulator
