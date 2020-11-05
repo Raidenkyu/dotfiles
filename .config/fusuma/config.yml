@@ -1,0 +1,23 @@
+swipe:
+  3:
+    right: 
+      command: 'i3-msg workspace prev'
+    left: 
+      command: 'i3-msg workspace next'
+    up: 
+      command: 'i3-msg workspace back_and_forth'
+    down: 
+      command: 'i3-msg fullscreen'
+pinch:
+  in:
+    command: 'xdotool key ctrl+plus'
+  out:
+    command: 'xdotool key ctrl+minus'
+
+threshold:
+  swipe: 0.7
+  pinch: 0.1
+
+interval:
+  swipe: 1
+  pinch: 1
